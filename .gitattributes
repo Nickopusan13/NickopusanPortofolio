@@ -1,5 +1,5 @@
-*.pbix linguist-vendored
-*.csv linguist-vendored
-*.ipynb linguist-vendored
-PowerBI/ linguist-vendored
-PandasProject/ linguist-vendored
+*.pbix linguist-detectable
+*.ipynb linguist-detectable
+*.csv linguist-detectable
+*.xlsx linguist-detectable
+*.py linguist-detectable
