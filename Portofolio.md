@@ -20,5 +20,3 @@ Why Work With Me?
 🔹 Proven Results – Whether it’s boosting operational efficiency, identifying trends, or building ML-driven insights, I focus on delivering measurable impact.  
 
 Let’s collaborate to transform your data into a competitive edge! 📊💡
-
-![Power BI](.github/icons/powerbi.png)  
