@@ -5,7 +5,7 @@
 
 Hi there! I’m a detail-oriented Data Analyst with a passion for turning complex datasets into clear, impactful stories. With expertise in data cleaning, visualization, analysis, and machine learning, I help businesses unlock hidden patterns, optimize decision-making, and drive growth through data-driven strategies.
 
-What I Offer:
+What I Offer:  
 ✅ Data Cleaning & Preparation – Ensuring accuracy and reliability by handling messy data precisely.
 ✅ Interactive Dashboards & Reports – Crafting visually compelling reports and dashboards using Power BI to simplify complex insights.
 ✅ Advanced Analytics & Machine Learning – Leveraging Python, Pandas, and ML models for predictive analytics, anomaly detection, and automation.
